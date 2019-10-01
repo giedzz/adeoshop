@@ -1,0 +1,3 @@
+Praëjusià savaitæ nelabai turëjau laiko todël darbà pradëjau tik sekmadiená vakare... Todël nespëjau padaryti tinkamo daiktø sàraðo atvaizdavimo, kiekvieno atskiro daikto atvaizdavimo. Administratoriaus dalis ávykdyta, jeigu teisingai
+supratau reikalavimus. Jei naudosite mano duomenø bazës atvaizdà, tuomet administratoriaus prisijungimai bus (name: admin, password: administrator). Administratoriaus prisijungimas nuoroda /adeoshop/admin. Frontend nuoroda /adeoshop/frontend.
+Ir iðtrinta node_modules direktorija, dël uþimamos vietos.
